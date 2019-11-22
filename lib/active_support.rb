@@ -52,7 +52,7 @@ module ActiveSupport
     autoload :BacktraceCleaner
     autoload :ProxyObject
     autoload :Benchmarkable
-    autoload :Cache
+    # autoload :Cache
     autoload :Callbacks
     autoload :Configurable
     autoload :Deprecation
