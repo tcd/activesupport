@@ -41,4 +41,5 @@ class ActiveSupport::TestCase
     end
 end
 
-require_relative "../../tools/test_common"
+# Contains logic for running in "BUILDKITE" CI environment.
+# require_relative "../../tools/test_common"
